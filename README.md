@@ -8,4 +8,4 @@ The project includes:
 - Database Display: View all student records in a structured format.
 - Search Functionality: Quickly retrieve individual student details using a simple search by student number.
 
-This project demonstrates my ability to build user-friendly interfaces, manage data, and apply input validation while being able to incorporate features like file handling, ata validation, and advanced search options. I was able to showcase my understanding of core Python concepts like loops, functions, conditionals, and data structures (lists and dictionaries). 
+This project demonstrates my ability to build user-friendly interfaces, manage data, and apply input validation while being able to incorporate features like file handling, data validation, and advanced search options. I was able to showcase my understanding of core Python concepts like loops, functions, conditionals, and data structures (lists and dictionaries). 
